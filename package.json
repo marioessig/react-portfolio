@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-     "_comment_DisableBrowserAutoStart": "Replace above with BROWSER=none react-scripts start",
+    "_comment_DisableBrowserAutoStart": "Replace above with BROWSER=none react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
